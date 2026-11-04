@@ -1,0 +1,102 @@
+[
+  {
+    "authorName": "محمود السيد",
+    "category": "water",
+    "title": "كسر ماسورة مياه ببشتيل",
+    "detailedAddress": "شارع المدارس أمام المسجد الكبير",
+    "details": "المياه تغمر الشارع",
+    "phone": "01099887766",
+    "imageUrl": "/uploads/complaint-1793818907153-128.png",
+    "id": "bst-1793818907153",
+    "ticketNumber": "BST-106",
+    "status": "open",
+    "createdAt": "2026-11-04T19:01:47.153Z",
+    "upvotes": 1,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "authorName": "أحمد محمود",
+    "category": "garbage",
+    "title": "تراكم قمامة تجريبي",
+    "detailedAddress": "شارع بشتيل الرئيسي",
+    "details": "شكوى تجريبية للتحقق من السحابة",
+    "id": "bst-1793815032366",
+    "ticketNumber": "BST-105",
+    "status": "open",
+    "createdAt": "2026-11-04T17:57:12.366Z",
+    "upvotes": 1,
+    "downvotes": 0,
+    "comments": []
+  },
+  {
+    "authorName": "اتن",
+    "category": "garbage",
+    "title": "نعم تزيد ٨",
+    "detailedAddress": "نزلت وزير الإسكان والمرافق الأساسية",
+    "details": "ننزل زنز وزووتن",
+    "phone": "0100888",
+    "imageUrl": "/uploads/complaint-bst-1793812749671.jpg",
+    "id": "bst-1793812749671",
+    "ticketNumber": "BST-104",
+    "status": "open",
+    "createdAt": "2026-11-04T17:19:09.671Z",
+    "upvotes": 1,
+    "downvotes": 0,
+    "userVoted": "up",
+    "comments": []
+  },
+  {
+    "id": "bst-101",
+    "ticketNumber": "BST-101",
+    "authorName": "محمد أحمد",
+    "category": "garbage",
+    "title": "تراكم قمامة أمام مدرسة بشتيل",
+    "detailedAddress": "أمام مدرسة بشتيل، بجوار الوحدة المحلية، بجانب نقطة البشتيل",
+    "details": "أكوام قمامة تعيق دخول الطلاب وتسبب روائح كريهة وانتشار الحشرات، ونرجو إرسال سيارة النظافة فوراً لرفع التراكمات.",
+    "phone": "01012345678",
+    "status": "open",
+    "createdAt": "2026-11-03T17:07:27.155Z",
+    "upvotes": 18,
+    "downvotes": 1,
+    "comments": [
+      {
+        "id": "c-1",
+        "author": "طارق حسام (عضو ملتقى شباب بشتيل)",
+        "text": "تم إخطار مسؤول قطاع النظافة وجاري المتابعة لرفع القمامة بمشيئة الله.",
+        "createdAt": "2026-11-03T23:07:27.156Z",
+        "isOfficial": true
+      }
+    ]
+  },
+  {
+    "id": "bst-102",
+    "ticketNumber": "BST-102",
+    "authorName": "فاطمة علي",
+    "category": "roads",
+    "title": "حفرة كبيرة في شارع الجمهورية",
+    "detailedAddress": "شارع الجمهورية، أمام كشك أشرف",
+    "details": "حفرة عميقة تشكل خطراً كبيراً على السيارات والمارة خصوصاً الأطفال بعد غروب الشمس، وتسببت في تلف إطارات أكثر من سيارة.",
+    "phone": "01123456789",
+    "status": "in_progress",
+    "createdAt": "2026-11-02T17:07:27.156Z",
+    "upvotes": 27,
+    "downvotes": 2,
+    "comments": []
+  },
+  {
+    "id": "bst-103",
+    "ticketNumber": "BST-103",
+    "authorName": "حاج سعيد الشريف",
+    "category": "water",
+    "title": "كسر ماسورة مياه وغرق الشارع",
+    "detailedAddress": "شارع النفق المتفرع من شارع المحطة، بجوار صيدلية الدكتور وليد",
+    "details": "تسريب مياه شرب غزير أدى لقطع المياه عن المنازل المجاورة وتجمع بركة مياه تعيق حركة السير.",
+    "phone": "01234567890",
+    "status": "open",
+    "createdAt": "2026-11-04T12:07:27.156Z",
+    "upvotes": 41,
+    "downvotes": 0,
+    "comments": []
+  }
+]

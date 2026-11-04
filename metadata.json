@@ -1,0 +1,6 @@
+{
+  "name": "ملتقى شباب بشتيل",
+  "description": "منصة ملتقى شباب بشتيل لتوصيل صوت وشكاوى المواطنين للمسؤولين ومجموعات الواتساب وتوليد ملصقات QR للجدران",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
